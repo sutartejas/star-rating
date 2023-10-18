@@ -1,0 +1,42 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.star-wrapper {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid white;
+  background-color: lightyellow;
+}
+
+.star-header{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 100%;
+  width: 100%;
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+.on {
+  color: orange;
+}
+
+.off {
+  color: #cccccc;
+}
+
+button {
+  background-color: transparent;
+  cursor: pointer;
+  border: none;
+}
+
+.star {
+  font-size: xxx-large;
+}
