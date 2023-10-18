@@ -1,3 +1,3 @@
-# [Live Demo](https://quiz-app-flame-chi.vercel.app/)
+# [Live Demo](https://star-rating-cyan.vercel.app/)
 
-Simple Star Rating React Component created with ReactJS.
+Simple Star Rating React Component.
